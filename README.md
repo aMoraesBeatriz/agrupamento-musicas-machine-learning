@@ -70,7 +70,7 @@ Ele é útil para:
 - Encontrar gêneros muito distintos do conjunto principal
 - Evitar clusters forçados, como ocorre às vezes no K-Means
 
-6. Como Executar
+Como Executar
 
 Instale as dependências:
 
@@ -80,12 +80,12 @@ Execute o script:
 
 - python pi2_machine_learning.py
 
-7. Arquivos do Projeto
+Arquivos do Projeto
 
 - pi2_machine_learning.py – Código completo do projeto
 
 - README.md – Documentação explicativa
 
-8. Licença
+Licença
 
 Este projeto foi desenvolvido para fins acadêmicos, como parte da Disciplina de Mineração de Dados do Curso de Sistemas de Informação da Universidade do Estado de Minas Gerais.
