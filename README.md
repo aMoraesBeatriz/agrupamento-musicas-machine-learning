@@ -15,7 +15,8 @@ Tecnologias Utilizadas:
 - Matplotlib
 - Seaborn
 
-Estrutura do Código
+Estrutura do Código:
+
 1. ETL e Preparação dos Dados
 - Criação de dataset fictício com 15 músicas
 - Normalização e organização dos dados
@@ -70,22 +71,18 @@ Ele é útil para:
 - Encontrar gêneros muito distintos do conjunto principal
 - Evitar clusters forçados, como ocorre às vezes no K-Means
 
-Como Executar
+Para Executar:
 
-Instale as dependências:
+- Instale as dependências:
+  - pip install pandas numpy scikit-learn matplotlib seaborn
+- Execute o script:
+  - python pi2_machine_learning.py
 
-- pip install pandas numpy scikit-learn matplotlib seaborn
-
-Execute o script:
-
-- python pi2_machine_learning.py
-
-Arquivos do Projeto
+Arquivos do Projeto:
 
 - pi2_machine_learning.py – Código completo do projeto
-
 - README.md – Documentação explicativa
 
-Licença
+Licença:
 
 Este projeto foi desenvolvido para fins acadêmicos, como parte da Disciplina de Mineração de Dados do Curso de Sistemas de Informação da Universidade do Estado de Minas Gerais.
